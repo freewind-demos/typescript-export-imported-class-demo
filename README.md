@@ -1,9 +1,9 @@
-TypeScript Hello World Demo
-============================
+TypeScript Export Imported Class Demo
+=====================================
 
 ```
 npm install
-npx ts-node hello.ts
+npx ts-node hello3.ts
 ```
 
 It will print `Hello, TypeScript!`

@@ -1,3 +1,5 @@
-import {capitalize} from 'lodash';
-
-console.log("Hello " + capitalize("typescript") + "!");
+export default class Hello {
+    hello() {
+        console.log('Hello, world!')
+    }
+}
